@@ -1,0 +1,39 @@
+*{
+    font-family: ;
+}
+header{
+    background-color: #4535C1;
+}
+.nav-item a{
+    color: #fff;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #77E4C8;
+}
+
+.nav-link:hover {
+    color: #77E4C8;
+}
+
+a{
+  color: #77E4C8;
+  text-decoration: none;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    color: #4535C1;
+  }
+
+.palette-one {
+    background-color: #36C2CE;
+}
+.palette-two {
+    background-color: #4535C1;
+}
+.palette-three {
+    background-color: #478CCF;
+}
+.palette-four {
+    background-color: #00CCDD;
+}
